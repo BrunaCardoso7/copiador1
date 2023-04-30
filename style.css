@@ -1,0 +1,17 @@
+.curso{
+    color: white;
+    font-family: monospace;
+    background-color: brown;
+    width: 100px;
+    padding: 4px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px;
+    border: 1px solid black;
+}
+.curso:hover{
+    border: 2px solid green;
+}
+.destaque{
+    background-color: black !important;
+}
